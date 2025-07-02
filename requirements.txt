@@ -15,13 +15,13 @@ platformdirs==4.2.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.1
-requests==2.32.3
+requests==2.32.4
 scikit-learn==1.5.1
 scipy==1.14.0
 six==1.16.0
 soupsieve==2.5
 threadpoolctl==3.5.0
 tzdata==2024.1
-urllib3==2.2.2
+urllib3==2.5.0
 webencodings==0.5.1
 yfinance==0.2.40
